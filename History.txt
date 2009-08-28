@@ -1,0 +1,8 @@
+== 0.0.1 2009-02-25
+
+* 3.0 major enhancement:
+  * Create connection class
+  * Create gem
+  * Convert xml to ruby type: date, date_time, boolean
+  * Added links to objects
+  * Create DSL to describe FreshBooks actions
