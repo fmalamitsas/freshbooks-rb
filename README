@@ -1,5 +1,8 @@
 = About
 
+This gem is a copy of the elc-freshbooks.rb gem.
+The only difference is a quick fix on default date setting for invoices.
+
 FreshBooks.rb is a Ruby interface to the FreshBooks API. It exposes easy-to-use classes and methods for interacting with your FreshBooks account. Read more on ELC's blog:
 http://elctech.com/tags/freshbooks
 
